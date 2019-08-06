@@ -5,10 +5,10 @@ In order to evaluate the ice impact force acting on offshore structures, two pie
 <img src="Images/ConfederationBridge.png" width="100%" height="100%">
 
 
-### Tiltmeter's Measurement for Wind Event   
+### Tiltmeter's Measurement of Wind Event   
 <img src="Images/WindEvent.png" width="100%" height="100%">
 
-### Tiltmeter's Measurement for Ice Event  
+### Tiltmeter's Measurement of Ice Event  
 <img src="Images/IceEvent.png" width="100%" height="100%">
 
 ### Ice Event Scene
