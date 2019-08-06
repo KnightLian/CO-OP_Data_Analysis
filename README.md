@@ -12,4 +12,4 @@
 
 <img src="Images/IceEvent.png" width="100%" height="100%">
 
-<img src="Images/IceDrift.png" width="80%" height="80%">
+<img src="Images/IceEventScene.png" width="80%" height="80%">
