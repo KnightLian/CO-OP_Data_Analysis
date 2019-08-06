@@ -1,5 +1,5 @@
-clc;%excel plot
-clear all;%
+clc;
+clear all;
 close all;
 openfile = 'C:\Users\lian\Desktop\march.xlsm';
 [data, txt] = xlsread(openfile, 1);
@@ -10,7 +10,7 @@ windboundaryb = 30;
 tiltboundaryb = 150;
 windinterval = 5;
 tiltinterval = 25;
-for i = 84%1:r%i+13 = JD%wind event
+for i = 84 %1:r%i+13 = JD%wind event
     P23openname = cell2mat(txt(i,1));
     P24openname = cell2mat(txt(i,2));
     windopenname = cell2mat(txt(i,3));
