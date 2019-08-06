@@ -3,7 +3,6 @@ In order to evaluate the ice impact force acting on offshore structures, two pie
 
 [Project Presentation](Report.pdf "Project Presentation PDF")
 
-[embed]Report.pdf[/embed]
 
 ### Tiltmeters inside Pier
 <img src="Images/ConfederationBridge.png" width="100%" height="100%">  
