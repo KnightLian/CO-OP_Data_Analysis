@@ -4,7 +4,7 @@ In order to evaluate the ice impact force acting on offshore structures, two pie
 
 ### Tiltmeters inside Pier
 <img src="Images/ConfederationBridge.png" width="100%" height="100%">  
-Lower Tiltmeter is the Tiltmeter located at the Water Line.  
+Lower Tiltmeter is the tiltmeter located at the Water Line.  
 
 ### Tiltmeter's Measurement of Wind Condition Only
 <img src="Images/WindEvent.png" width="100%" height="100%">
