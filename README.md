@@ -10,10 +10,10 @@ The tiltmeter operated 12 winters since 1998 and obtained a reliable tilt data f
 <img src="Images/ConfederationBridge.png" width="100%" height="100%">
 
 
-### Tiltmeter's Measurement of Wind Event   
+### Tiltmeter's Measurement of Wind Condition Only   
 <img src="Images/WindEvent.png" width="100%" height="100%">
 
-### Tiltmeter's Measurement of Ice Event  
+### Tiltmeter's Measurement of Ice Event in Windy Condition  
 <img src="Images/IceEvent.png" width="100%" height="100%">
 
 ### Ice Event Scene
